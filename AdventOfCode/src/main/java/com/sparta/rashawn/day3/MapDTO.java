@@ -2,7 +2,7 @@ package com.sparta.rashawn.day3;
 
 public class MapDTO {
 
-    String row;
+    private String row;
 
     public String getRow() {
         return row;
